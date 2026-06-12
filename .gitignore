@@ -1,0 +1,10 @@
+# Large data folder
+data/
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
